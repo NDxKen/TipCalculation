@@ -1,0 +1,9 @@
+.item {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 2rem;
+}
+.title {
+    background-color: green;
+    color: white;
+}
